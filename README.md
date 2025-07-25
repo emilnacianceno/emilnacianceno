@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Emil Nacianceno!
 
-<!--
-**emilnacianceno/emilnacianceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer with **5 years of experience in React Native app development** and **2 years in web development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Professional Experience
+
+### 🏢 ITBS Corporation  
+**Backend Programmer / Database Designer**  
+*2021 – Present*
+
+- Specializing in backend solutions and database architecture
+- Building scalable APIs and robust data models
+- Collaborating with cross-functional teams to deliver impactful software
+
+---
+
+## 🚀 Skills
+
+- **Mobile Development:** React Native, Expo, iOS/Android
+- **Web Development:** JavaScript, HTML, CSS, modern frameworks
+- **Backend:** Node.js, Express, REST APIs
+- **Database:** SQL, Database Design, Optimization
+
+---
+
+## 📈 GitHub Stats
+
+![Emil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilnacianceno&show_icons=true&theme=radical)
+
+Thanks for visiting my profile! 🚀
