@@ -32,6 +32,6 @@ I'm a passionate developer with **5 years of experience in React Native app deve
 
 ## 📈 GitHub Stats
 
-![Emil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilnacianceno&show_icons=true&theme=radical)
+![Emil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilnacianceno&show_icons=true&theme=radical&count_private=true)
 
 Thanks for visiting my profile! 🚀
