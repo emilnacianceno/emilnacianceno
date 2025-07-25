@@ -7,6 +7,10 @@ I'm a passionate developer with **5 years of experience in React Native app deve
 
 ## 🏆 Professional Experience
 
+- **Programmer of the Year** — Don Honorio Ventura State University, 2019
+
+---
+
 ### 🏢 ITBS Corporation  
 **Backend Programmer / Database Designer**  
 *2021 – Present*
