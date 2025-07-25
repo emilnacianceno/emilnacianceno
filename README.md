@@ -5,13 +5,15 @@ I'm a passionate developer with **5 years of experience in React Native app deve
 
 ---
 
-## 🏆 Professional Experience
+## 🏆 Achievements
 
 - **Programmer of the Year** — Don Honorio Ventura State University, 2019
 
 ---
 
-### 🏢 ITBS Corporation  
+## 🏢 Professional Experience
+
+### ITBS Corporation  
 **Backend Programmer / Database Designer**  
 *2021 – Present*
 
@@ -34,5 +36,7 @@ I'm a passionate developer with **5 years of experience in React Native app deve
 
 ![emilnacianceno's Stats](https://github-readme-stats.vercel.app/api?username=emilnacianceno&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![emilnacianceno's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emilnacianceno&theme=vue-dark&hide_border=true)
+
+---
 
 Thanks for visiting my profile! 🚀
